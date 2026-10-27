@@ -34,4 +34,4 @@ Model performance is evaluated using:
 - Mean absolute error (MAE) — average difference in league positions
 - NDCG — ranking quality, with greater importance placed on higher-ranked teams
 
-![Actual versus predicted positions](outputs/figures/actual_vs_predicted.png)
+![Actual versus predicted positions](Results/ModelResultsDashboard.png)
